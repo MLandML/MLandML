@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MLandML
 - 👀 I’m interested in Entrepreneurship and startup 
-- 🌱 I’m currently learning machine learning
+- 🌱 I’m currently learning machine learning and very much interested in neural networks
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me email: scihou3922@gmail.com
 
