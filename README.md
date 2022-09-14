@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MLandML
+- 👋 Hi, I’m @houshik
 - 👀 I’m interested in Entrepreneurship and startups 
 - 🌱 I’m currently learning machine learning and very much interested in neural networks
 - 💞️ I’m looking to collaborate on projects involving deep learning.
