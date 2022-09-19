@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @houshik
-- 👀 I’m interested in Entrepreneurship and startups 
-- 🌱 I’m currently learning machine learning and very much interested in neural networks
-- 💞️ I’m looking to collaborate on projects involving deep learning.
-- 📫 How to reach me email: scihou3922@gmail.com
+- neural_network_from_scratch : 1.	Built a neural network in python using only numpy and not using any other libraries such as scikit-learn, TensorFlow, etc by referring some books.
+- supervised_scikit_learn: housing price prediction model bulit with the help of "Hands on Machine Learning using Scikit Learn and TensorFlow" book.
 
 <!---
 MLandML/MLandML is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
