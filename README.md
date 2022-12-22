@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @houshik
 - 👀 I’m interested in Entrepreneurship and startups 
-- 🌱 I’m currently learning machine learning and very much interested in neural networks
-- 💞️ I’m looking to collaborate on projects involving deep learning.
+- 🌱 I’m currently learning Deep learning and very much interested in Generative AI
+- 💞️ I’m looking to collaborate on projects involving deep learning and Generative AI.
 - 📫 How to reach me email: scihou3922@gmail.com
 
 <!---
